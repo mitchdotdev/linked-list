@@ -10,7 +10,6 @@ void saveRecord(slist*& header, sentry*& node, record*& course) {
     fileName = "test.txt";
     fout.open(fileName.c_str());
     node = header-> first;
-    cout << "\n\n" << header->length << "\n\n";
     for(int i = 0; i < header->length; ++i)
     {
       fout << node->course->term << endl;
