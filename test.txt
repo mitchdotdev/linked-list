@@ -1,13 +1,27 @@
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
-N/A
+Spring
+CS1C
+Advanced C++
+12339
+SM 303
+T/TH 1:30
+Lebowitz
+SM 346
+T/TH 3:00
+Bodawala
+5.00
+CS1B, CS1A
+A
+
+Spring 2018
+Physics
+Intro
+13993
+21
+T/TH 4:20-69
+Farquad
+Hogwarts
+T/TH 69-4:20
+Farquad
+5.00
+NA
+A
